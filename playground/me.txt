@@ -1,5 +1,0 @@
-{{#user}
-Name: Ishaan Mittal
-Skills: HTML, CSS, JS, Next.js,React.js
-Email: mittalishaan04@gmail.com
-{{/user}}
